@@ -47,7 +47,6 @@ private class DiffCallback : DiffUtil.ItemCallback<Verb>() {
         return oldItem.id == newItem.id
     }
 
-    @SuppressLint("DiffUtilEquals")
     override fun areContentsTheSame(oldItem: Verb, newItem: Verb): Boolean {
         return oldItem == newItem
     }
