@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Vocabulary</string>
+    <string name="example_action">Example Action</string>
+    <string name="another_action">Another Action</string>
+    <string name="walk">Walk</string>
+    <string name="base_form">Base form</string>
+    <string name="present_progressive">Present progressive</string>
+    <string name="simple_past">Simple past</string>
+    <string name="save_verb">Save verb</string>
+    <string name="required">This field is required</string>
+    <string name="vocabulary_empty">Your vocabulary is empty</string>
+</resources>
