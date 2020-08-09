@@ -2,10 +2,13 @@ package com.c3rberuss.myvocabulary.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.activity.viewModels
+import androidx.fragment.app.viewModels
 import androidx.navigation.NavController
 import androidx.navigation.fragment.NavHostFragment
 import androidx.navigation.ui.NavigationUI
 import com.c3rberuss.myvocabulary.R
+import com.c3rberuss.myvocabulary.presentation.list.VerbsViewModel
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint
